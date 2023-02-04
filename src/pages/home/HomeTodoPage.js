@@ -60,6 +60,7 @@ function HomeTodoPage() {
             completed={todo.completed}
             onComplete={() => completeTodo(todo.text)}
             onDelete={() => deleteTodo(todo.text)}
+            onEdit={() => console.log('Editar TODO')}
           />
         )}
       </TodoList>
