@@ -1,13 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-  margin: 0;
-  padding: 0;
-  background: #F2F4F5;
-  color: #1E1E1F;
+  margin     : 0;
+  padding    : 0;
+  background : #F2F4F5;
+  color      : #1E1E1F;
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
 
 #root {
-  margin: 0 24px;
-  position: relative;
-  min-height: 100vh;
+  position      : relative;
+  min-height    : 100vh;
+  display       : flex;
+  flex-direction: column;
+  max-width     : 600px;
+  align-items   : center;
+  margin        : 0 auto;
+  padding       : 0 1rem 6rem;
+}
+
+#root header {
+  width: 100%;
+}
+
+.TodoList-container {
+  width: 100%;
 }
