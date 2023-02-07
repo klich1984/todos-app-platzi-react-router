@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todos-app-platzi-react-router/static/css/main.cfff6175.chunk.css",
+    "main.js": "/todos-app-platzi-react-router/static/js/main.c6dceb48.chunk.js",
+    "main.js.map": "/todos-app-platzi-react-router/static/js/main.c6dceb48.chunk.js.map",
+    "runtime-main.js": "/todos-app-platzi-react-router/static/js/runtime-main.365670f4.js",
+    "runtime-main.js.map": "/todos-app-platzi-react-router/static/js/runtime-main.365670f4.js.map",
+    "static/js/2.3801d8a6.chunk.js": "/todos-app-platzi-react-router/static/js/2.3801d8a6.chunk.js",
+    "static/js/2.3801d8a6.chunk.js.map": "/todos-app-platzi-react-router/static/js/2.3801d8a6.chunk.js.map",
+    "index.html": "/todos-app-platzi-react-router/index.html",
+    "static/css/main.cfff6175.chunk.css.map": "/todos-app-platzi-react-router/static/css/main.cfff6175.chunk.css.map",
+    "static/js/2.3801d8a6.chunk.js.LICENSE.txt": "/todos-app-platzi-react-router/static/js/2.3801d8a6.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/todos-app-platzi-react-router/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/todos-app-platzi-react-router/static/media/delete.331149da.svg",
+    "static/media/edit.7aade43e.svg": "/todos-app-platzi-react-router/static/media/edit.7aade43e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.365670f4.js",
+    "static/js/2.3801d8a6.chunk.js",
+    "static/css/main.cfff6175.chunk.css",
+    "static/js/main.c6dceb48.chunk.js"
+  ]
+}
