@@ -1,8 +1,7 @@
 form {
-  width: 90%;
+  width: 100%;
   max-width: 300px;
-  margin: auto;
-  padding: 33px 40px;
+  padding-block-start: 33px;
   display: flex;
   justify-content: center;
   align-items: center;
