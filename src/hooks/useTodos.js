@@ -37,7 +37,7 @@ function useTodos() {
     saveTodos(newTodos)
   }
 
-  const searchTodo = id => {
+  const searchTodo = (id) => {
     const todoIndex = todos.findIndex((todo) => todo.id === id)
     const newTodos = [...todos]
 
@@ -70,6 +70,7 @@ function useTodos() {
     completedTodos,
     searchValue,
     searchedTodos,
+    searchTodo,
   }
 
   const stateUpdaters = {
